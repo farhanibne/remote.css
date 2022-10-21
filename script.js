@@ -14,6 +14,7 @@ $(document).ready(function () {
         "src",
         "https://www.yudiz.com/codepen/smart-remote-control/moon.svg"
       );
+      
     }
   });
 });
